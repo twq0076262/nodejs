@@ -29,7 +29,6 @@
 - [字符串解码器 - String Decoder](string-decoder.md)
 - [定时器 - Timers](timers.md)
 - [TLS/SSL](tls-ssl.md)
-- [跟踪 - Tracing](tracing.md)
 - [终端 - TTY](tty.md)
 - [UDP/Datagram](udp-datagram.md)
 - [URL](url.md)
